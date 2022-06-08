@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @overtilteddd
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning python, C#, C++, HTML/CSS/Js, Kotlin and Java.
-- 💞️ I’m loking to collaborate with Android developers.
+- 💞️ I’m loking to collaborate with white-hat hackers, security tester.
 - 📫 How to reach me discord sugarfree#9350, telegram @overtilttteddd
 
 <!---
